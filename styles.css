@@ -1,0 +1,24 @@
+.bg-pink{
+    background-color: #64d8cb;
+}
+.height-carousel{
+    max-height: 400px;
+    min-height: 400px;
+}
+.icon-redes{
+    font-size: 50px;
+    margin-right: 3%;
+}
+.fa-facebook-f{
+    color: #0d46a0;
+    
+}
+.fa-instagram{
+    color: rgb(172, 94, 172)
+}
+.fa-github{
+    color: rgb(56, 52, 52);
+}
+.fa-linkedin{
+    color: rgb(72, 187, 202);
+}
